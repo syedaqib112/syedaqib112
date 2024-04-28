@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm Syed Aqib</h1>
-<h3 align="center">A passionate Backend Developer working at Rakuten</h3>
+<h3 align="center">A passionate Backend Developer !!!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-<div>
-<details>
-  <summary>👨🏻 More about me</summary>
+<br>🔭 I’m Currently Working as a Software Engineer at Rakuten.<br>🌱 I’m currently learning Spring-Boot | Kubernetes.<br>👯 I’m looking to collaborate on Java | Spring-Boot | Back-end Projects.<br>💬 Ask me about Java | Spring-Boot | Microservices.<br>📫 How to reach me: syedaqib112@gmail.com.
 
-- 👨🏻 Electronics Undergrad, BIT Bangalore
-
-- 💬 I'm into **Backend Developement**
-
-</details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedaqib112&label=Profile%20views&color=0e75b6&style=flat" alt="syedaqib112" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedaqib112" alt="syedaqib112" /></a> </p>
-
-- 📫 How to reach me **syedaqib112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
